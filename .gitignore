@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+shared_records/
+data/raw/
+data/processed/
+data/raw/
+data/processed/
