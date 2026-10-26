@@ -1,0 +1,43 @@
+{
+  "accounting_period": "2026-07",
+  "processing_sequence": 1,
+  "source_workbook": "AIC_A JE#3784 WF Disb Cash Expense Activity July 2026.xlsx",
+  "header_row": 1,
+  "header_matches_expected": true,
+  "last_meaningful_row": 153,
+  "row_kind_counts": {
+    "balance_forward": 1,
+    "source_transaction": 133,
+    "allocation_or_supplemental": 15,
+    "void_transaction": 3
+  },
+  "balance_forward_rows": [
+    2
+  ],
+  "source_transaction_count": 136,
+  "allocation_line_count": 151,
+  "supplemental_block_count": 10,
+  "ambiguous_supplemental_block_count": 0,
+  "ambiguous_supplemental_blocks": [],
+  "source_continuation_inheritance_ambiguity_count": 0,
+  "source_continuation_inheritance_ambiguity_rows": [],
+  "allocation_reconciliation_mismatch_count": 0,
+  "allocation_reconciliation_mismatches": [],
+  "formula_columns": {
+    "11": 130,
+    "12": 120
+  },
+  "formula_cells_outside_K_L": 0,
+  "column_K_formula_static_blank": {
+    "blank": 2,
+    "formula": 130,
+    "static": 20
+  },
+  "column_L_formula_static_blank": {
+    "blank": 1,
+    "formula": 120,
+    "static": 31
+  },
+  "unexpected_row_count": 0,
+  "unexpected_rows": []
+}
