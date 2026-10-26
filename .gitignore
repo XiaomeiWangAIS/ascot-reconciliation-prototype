@@ -221,3 +221,5 @@ data/raw/
 data/processed/
 data/raw/
 data/processed/
+data/validation/**/*.xlsx
+data/validation/**/processed/
